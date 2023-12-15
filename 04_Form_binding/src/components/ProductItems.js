@@ -111,7 +111,7 @@ class ProductItem extends React.Component{
                             <td>&#8377;{(price * qty).toFixed(2)}</td>
                              
                         </tr>
-                    </tbody>f
+                    </tbody>
                 </table>
             </div>
            </div>

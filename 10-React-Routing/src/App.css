@@ -1,0 +1,13 @@
+.table tbody tr td {
+    font-weight: bold !important;
+}
+.landing-page {
+    background: white url("./assets/img/loding.jpg");
+    background-size: cover;
+    height: 100vh ;
+    color: pink;
+}
+.wrapper{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+}
